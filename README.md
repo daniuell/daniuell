@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniuell" alt="daniuell" /></a> </p>
 
-- 🔭 I’m currently working on **JustJoinIt automation test demo**[repository](https://github.com/daniuell/JustJoinIt)
+- 🔭 I’m currently working on **JustJoinIt automation test demo** [repository](https://github.com/daniuell/JustJoinIt)
 
 - 🌱 I’m currently learning **Playwright/Javascript/Typescript**
 
@@ -17,6 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+- [Linkedin](https://www.linkedin.com/in/daniel-jedrzejczyk-b78091229/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
