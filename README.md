@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniuell" alt="daniuell" /></a> </p>
 
-- 🔭 I’m currently working on **JustJoinIt automation test demo**
+- 🔭 I’m currently working on **JustJoinIt automation test demo**[repository](https://github.com/daniuell/JustJoinIt)
 
 - 🌱 I’m currently learning **Playwright/Javascript/Typescript**
 
-- 👨‍💻 All of my projects are available at [portfolio@gmail.com](portfolio@gmail.com)
+- 👨‍💻 All of my projects are available at [portfolio](https://github.com/daniuell?tab=repositories)
 
-- 📫 How to reach me **email@gmail.com**
+- 📫 How to reach me **jedrzejczyk.daniel2@gmail.com**
 
-- ⚡ Fun fact **I'm good guy**
+- ⚡ Fun fact **My two favourite football clubs are Barcelona and Manchester United. :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
