@@ -3,17 +3,17 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/daniel-jedrzejczyk-b78091229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/daniel-jedrzejczyk-b78091229/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="linkedin" height="30" width="30" /></a>&nbsp;
 </p>
 
 ### About Me: 
 <img align="right" src="https://media4.giphy.com/media/B4xdycvhDq7qM3cdh2/giphy.gif?cid=6c09b952z6h87r06ljr1o0pj4aa31rva7t7i4i38nrgyuudu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 - 💻 I use daily: **.typecsript**, **.playwright**
-- 📖 I am currently reading **Body language** by Hartley Gregory and Karinch Maryann
-- ⚡ Fun fact: **My two favourite football clubs are Barcelona and Manchester United. :)**
-- 🔭 I’m currently working on **JustJoinIt automation test demo** [repository](https://github.com/daniuell/JustJoinIt)
-- 🌱 I’m currently learning **Cypress** and **JavaScript**
+- 📖 I am currently reading **Body Language** by Hartley Gregory and Karinch Maryann
+- ⚡ Fun fact: **My two favourite football teams are Barcelona and Manchester United. :)**
+- 🔭 I’m currently working on the **JustJoinIt automation test demo** [repository](https://github.com/daniuell/JustJoinIt)
+- 🌱 Currently learning **Cypress** and **JavaScript**
 - 🧑‍💻 Future plans for learning -> **Python**
 - 👨‍💻 All of my projects are available at [portfolio](https://github.com/daniuell?tab=repositories)
 - 📫 How to reach me **jedrzejczyk.daniel2@gmail.com**
