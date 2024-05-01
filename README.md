@@ -12,7 +12,7 @@
 
 - 💻 I use daily: **.typecsript**, **.playwright**
 - 📖 I am currently reading **Body Language** by Hartley Gregory and Karinch Maryann
-- ⚡ Fun fact: **My two favourite football teams are Barcelona and Manchester United. :)**
+- ⚡ Fun fact: **Did you know that as well as flying and swimming, ducks can also walk backwards?**
 - 🔭 I’m currently working on the **JustJoinIt automation test demo** [repository](https://github.com/daniuell/JustJoinIt)
 - 🌱 Currently learning **Cypress** and **JavaScript**
 - 🧑‍💻 Future plans for learning -> **Python**
