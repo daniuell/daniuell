@@ -4,6 +4,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-jedrzejczyk-b78091229/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="linkedin" height="30" width="30" /></a>&nbsp;
+<a href="mailto:jedrzejczyk.daniel2@gmail.com"><img align="center" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" height="30" width="30" />
 </p>
 
 ### About Me: 
@@ -36,6 +37,8 @@
 </p>
 
 ### Certifications
+**ISTQB certification validates knowledge and skills in software testing to international standards.**
+![istqb](https://github.com/daniuell/daniuell/assets/166296915/8aefc1b8-d139-43c3-8ccb-ec073a067844)
 
 ### GitHub stats! <img src="https://i.pinimg.com/originals/33/f1/64/33f1640278b829dff2304dd311a7738a.gif" width="45" />
 
