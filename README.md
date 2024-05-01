@@ -1,9 +1,11 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! I'm Daniel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" />
+
 <p align="center">
-<a href="https://www.linkedin.com/in/daniel-jedrzejczyk-b78091229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/daniel-jedrzejczyk-b78091229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a>&nbsp;
 </p>
 
-### <img align:="right" src="https://media4.giphy.com/media/B4xdycvhDq7qM3cdh2/giphy.gif?cid=6c09b952z6h87r06ljr1o0pj4aa31rva7t7i4i38nrgyuudu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="70" /> About Me: 
+# About Me: 
+<img align="right" src="https://media4.giphy.com/media/B4xdycvhDq7qM3cdh2/giphy.gif?cid=6c09b952z6h87r06ljr1o0pj4aa31rva7t7i4i38nrgyuudu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 - 💻 I use daily: **.js**, **.typecsript**, **.playwright**
 - 📖 I am currently reading **Body language** by Hartley Gregory and Karinch Maryann
