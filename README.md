@@ -1,21 +1,24 @@
 # Hi there! I'm Daniel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" />
 
-<p align="center">
-<a href="https://www.linkedin.com/in/daniel-jedrzejczyk-b78091229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a>&nbsp;
+
+### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/daniel-jedrzejczyk-b78091229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
 </p>
 
-# About Me: 
+### About Me: 
 <img align="right" src="https://media4.giphy.com/media/B4xdycvhDq7qM3cdh2/giphy.gif?cid=6c09b952z6h87r06ljr1o0pj4aa31rva7t7i4i38nrgyuudu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-- 💻 I use daily: **.js**, **.typecsript**, **.playwright**
+- 💻 I use daily: **.typecsript**, **.playwright**
 - 📖 I am currently reading **Body language** by Hartley Gregory and Karinch Maryann
-- 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: **My two favourite football clubs are Barcelona and Manchester United. :)**
 - 🔭 I’m currently working on **JustJoinIt automation test demo** [repository](https://github.com/daniuell/JustJoinIt)
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Cypress** and **JavaScript**
+- 🧑‍💻 Future plans for learning -> **Python**
 - 👨‍💻 All of my projects are available at [portfolio](https://github.com/daniuell?tab=repositories)
 - 📫 How to reach me **jedrzejczyk.daniel2@gmail.com**
-- 🧑‍💻 Tech I work on :
+
+### Languages and Tools
 
 <p align="center">
 <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> 
@@ -28,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
-# GitHub stats! <img src="https://i.pinimg.com/originals/33/f1/64/33f1640278b829dff2304dd311a7738a.gif" width="45" />
+### GitHub stats! <img src="https://i.pinimg.com/originals/33/f1/64/33f1640278b829dff2304dd311a7738a.gif" width="45" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniuell" alt="daniuell" /></a> </p>
 
